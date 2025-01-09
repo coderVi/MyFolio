@@ -1,0 +1,28 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background:linear-gradient( rgb(129, 247, 255), rgb(113, 255, 122));
+}
+.title{
+  margin-top: 2ch;
+  color: linear-gradient( to right rgb(255, 173, 129), rgb(214, 246, 2)) !important;
+}
+
+.contact
+{
+  text-shadow: 2px 2px 5px red;
+}

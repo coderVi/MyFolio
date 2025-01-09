@@ -1,0 +1,18 @@
+<div class="Contact text-center mt-5 contact">
+    <h2 class="h-2">Contact Us</h2>
+</div>
+<form asp-action="Home" method="post" style="border: 1px solid rgba(0, 0, 0, 0.2); padding: 5vh; border-radius: 10px;">
+    <div class="form-group mb-2">
+      <label for="exampleInputEmail1">Email adresiniz</label>
+      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+    </div>
+    <div class="form-group mb-2">
+        <label for="exampleInputPassword1">Konu</label>
+        <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Konu">
+      </div>
+    <div class="form-group mb-3 konu">
+        <label for="Message">Mesaj</label>
+      <textarea class="form-control" name="Message"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Gönder</button>
+  </form>
