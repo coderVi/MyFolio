@@ -93,5 +93,6 @@ C:\Users\mrasm\OneDrive\Desktop\Asp.Net_Learn\Folio\obj\Debug\net9.0\Folio.pdb
 C:\Users\mrasm\OneDrive\Desktop\Asp.Net_Learn\Folio\obj\Debug\net9.0\Folio.genruntimeconfig.cache
 C:\Users\mrasm\OneDrive\Desktop\Asp.Net_Learn\Folio\obj\Debug\net9.0\ref\Folio.dll
 C:\Users\mrasm\OneDrive\Desktop\Asp.Net_Learn\Folio\obj\Debug\net9.0\compressed\8fp68j7lzy-bclkv0lfxl.gz
-C:\Users\mrasm\OneDrive\Desktop\Asp.Net_Learn\Folio\obj\Debug\net9.0\compressed\rukk6c941y-3rhct5k9zu.gz
-C:\Users\mrasm\OneDrive\Desktop\Asp.Net_Learn\Folio\obj\Debug\net9.0\compressed\6zp5zm7im6-3rhct5k9zu.gz
+C:\Users\mrasm\OneDrive\Desktop\Asp.Net_Learn\Folio\obj\Debug\net9.0\Folio.sourcelink.json
+C:\Users\mrasm\OneDrive\Desktop\Asp.Net_Learn\Folio\obj\Debug\net9.0\compressed\rukk6c941y-htp3aci2oj.gz
+C:\Users\mrasm\OneDrive\Desktop\Asp.Net_Learn\Folio\obj\Debug\net9.0\compressed\6zp5zm7im6-htp3aci2oj.gz

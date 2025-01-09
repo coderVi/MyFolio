@@ -1,4 +1,4 @@
-﻿using Folio.ModelsModels;
+﻿using Folio.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Folio.Controllers
@@ -9,14 +9,19 @@ namespace Folio.Controllers
         {
             return View();
         }
-        public IActionResult Index(AdminModel model){
+        [HttpPost]
+        public IActionResult Index(AdminModel model)
+        {
             string kullaniciAdi = model.Kadi;
             string sifre = model.Sifre;
-            if(!string.IsNullOrEmpty(kullaniciAdi) && !string.IsNullOrEmpty(sifre)){
-                if(sifre.Length < 8){
-                    ModelState.AddModelError("Sifre","Şifre 8 karakterden az olamaz");
+            if (!string.IsNullOrEmpty(kullaniciAdi) && !string.IsNullOrEmpty(sifre))
+            {
+                if (sifre.Length < 8)
+                {
+                    ModelState.AddModelError("Sifre", "Şifre 8 karakterden az olamaz");
                 }
-                else{
+                else
+                {
                     //Database den kontrol sağlanacak alan
                 }
             }

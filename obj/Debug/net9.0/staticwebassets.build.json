@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5jaS6+utQkjyxs8pYORjWNe8vpMp1Buz9kKbvn7rbCU=",
+  "Hash": "35r5nEQlP+g9hMmEbOTmMMjQe7TClTHlNUFbFQiD9do=",
   "Source": "Folio",
   "BasePath": "_content/Folio",
   "Mode": "Default",
@@ -353,12 +353,12 @@
       "OriginalItemSpec": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\6zp5zm7im6-3rhct5k9zu.gz",
+      "Identity": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\6zp5zm7im6-htp3aci2oj.gz",
       "SourceId": "Folio",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Folio",
-      "RelativePath": "Folio#[.{fingerprint=3rhct5k9zu}]!.bundle.scp.css.gz",
+      "RelativePath": "Folio#[.{fingerprint=htp3aci2oj}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -367,8 +367,8 @@
       "RelatedAsset": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Folio.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5c7qsmjh70",
-      "Integrity": "pctRU2qDiNM70Z44MmT1I7RsgphmeMjaAqrg+ME1Urc=",
+      "Fingerprint": "2kiney7hhv",
+      "Integrity": "sgMaTN6jsUtIATu7b9Kdko4fyYY/nSkGfujAJzet67A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Folio.bundle.scp.css"
@@ -1130,12 +1130,12 @@
       "OriginalItemSpec": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\rukk6c941y-3rhct5k9zu.gz",
+      "Identity": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\rukk6c941y-htp3aci2oj.gz",
       "SourceId": "Folio",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Folio",
-      "RelativePath": "Folio#[.{fingerprint=3rhct5k9zu}]?.styles.css.gz",
+      "RelativePath": "Folio#[.{fingerprint=htp3aci2oj}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1144,8 +1144,8 @@
       "RelatedAsset": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Folio.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5c7qsmjh70",
-      "Integrity": "pctRU2qDiNM70Z44MmT1I7RsgphmeMjaAqrg+ME1Urc=",
+      "Fingerprint": "2kiney7hhv",
+      "Integrity": "sgMaTN6jsUtIATu7b9Kdko4fyYY/nSkGfujAJzet67A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Folio.styles.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "3rhct5k9zu",
-      "Integrity": "39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q=",
+      "Fingerprint": "htp3aci2oj",
+      "Integrity": "dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Folio.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "3rhct5k9zu",
-      "Integrity": "39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q=",
+      "Fingerprint": "htp3aci2oj",
+      "Integrity": "dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Folio.bundle.scp.css"
@@ -2773,7 +2773,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:59:32 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2834,7 +2834,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:59:32 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2879,7 +2879,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:59:32 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2934,7 +2934,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:59:32 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2987,7 +2987,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:59:32 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3024,7 +3024,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:59:32 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3345,13 +3345,13 @@
       ]
     },
     {
-      "Route": "Folio.3rhct5k9zu.bundle.scp.css",
-      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\6zp5zm7im6-3rhct5k9zu.gz",
+      "Route": "Folio.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\6zp5zm7im6-htp3aci2oj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003937007874"
+          "Quality": "0.004524886878"
         }
       ],
       "ResponseHeaders": [
@@ -3361,19 +3361,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "253"
+          "Value": "220"
         },
         {
           "Name": "ETag",
-          "Value": "\"pctRU2qDiNM70Z44MmT1I7RsgphmeMjaAqrg+ME1Urc=\""
+          "Value": "\"sgMaTN6jsUtIATu7b9Kdko4fyYY/nSkGfujAJzet67A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 21:29:46 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:31 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3389,26 +3389,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q=\""
+          "Value": "W/\"dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "3rhct5k9zu"
-        },
-        {
-          "Name": "label",
-          "Value": "Folio.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q="
+          "Value": "sha256-dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg="
         }
       ]
     },
     {
-      "Route": "Folio.3rhct5k9zu.bundle.scp.css",
+      "Route": "Folio.bundle.scp.css",
       "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Folio.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3418,7 +3410,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "359"
+          "Value": "265"
         },
         {
           "Name": "Content-Type",
@@ -3426,11 +3418,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q=\""
+          "Value": "\"dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 21:29:46 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg="
+        }
+      ]
+    },
+    {
+      "Route": "Folio.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\6zp5zm7im6-htp3aci2oj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sgMaTN6jsUtIATu7b9Kdko4fyYY/nSkGfujAJzet67A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 21:30:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sgMaTN6jsUtIATu7b9Kdko4fyYY/nSkGfujAJzet67A="
+        }
+      ]
+    },
+    {
+      "Route": "Folio.htp3aci2oj.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\6zp5zm7im6-htp3aci2oj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004524886878"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "220"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sgMaTN6jsUtIATu7b9Kdko4fyYY/nSkGfujAJzet67A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 21:30:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "htp3aci2oj"
+        },
+        {
+          "Name": "label",
+          "Value": "Folio.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg="
+        }
+      ]
+    },
+    {
+      "Route": "Folio.htp3aci2oj.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Folio.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "265"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 21:30:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3440,7 +3577,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3rhct5k9zu"
+          "Value": "htp3aci2oj"
         },
         {
           "Name": "label",
@@ -3448,13 +3585,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q="
+          "Value": "sha256-dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg="
         }
       ]
     },
     {
-      "Route": "Folio.3rhct5k9zu.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\6zp5zm7im6-3rhct5k9zu.gz",
+      "Route": "Folio.htp3aci2oj.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\6zp5zm7im6-htp3aci2oj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3463,7 +3600,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "253"
+          "Value": "220"
         },
         {
           "Name": "Content-Type",
@@ -3471,11 +3608,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pctRU2qDiNM70Z44MmT1I7RsgphmeMjaAqrg+ME1Urc=\""
+          "Value": "\"sgMaTN6jsUtIATu7b9Kdko4fyYY/nSkGfujAJzet67A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 21:29:46 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3493,7 +3630,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3rhct5k9zu"
+          "Value": "htp3aci2oj"
         },
         {
           "Name": "label",
@@ -3501,18 +3638,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pctRU2qDiNM70Z44MmT1I7RsgphmeMjaAqrg+ME1Urc="
+          "Value": "sha256-sgMaTN6jsUtIATu7b9Kdko4fyYY/nSkGfujAJzet67A="
         }
       ]
     },
     {
-      "Route": "Folio.3rhct5k9zu.styles.css",
-      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\rukk6c941y-3rhct5k9zu.gz",
+      "Route": "Folio.htp3aci2oj.styles.css",
+      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\rukk6c941y-htp3aci2oj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003937007874"
+          "Quality": "0.004524886878"
         }
       ],
       "ResponseHeaders": [
@@ -3522,15 +3659,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "253"
+          "Value": "220"
         },
         {
           "Name": "ETag",
-          "Value": "\"pctRU2qDiNM70Z44MmT1I7RsgphmeMjaAqrg+ME1Urc=\""
+          "Value": "\"sgMaTN6jsUtIATu7b9Kdko4fyYY/nSkGfujAJzet67A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 21:29:46 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3550,13 +3687,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q=\""
+          "Value": "W/\"dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3rhct5k9zu"
+          "Value": "htp3aci2oj"
         },
         {
           "Name": "label",
@@ -3564,12 +3701,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q="
+          "Value": "sha256-dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg="
         }
       ]
     },
     {
-      "Route": "Folio.3rhct5k9zu.styles.css",
+      "Route": "Folio.htp3aci2oj.styles.css",
       "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Folio.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3579,7 +3716,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "359"
+          "Value": "265"
         },
         {
           "Name": "Content-Type",
@@ -3587,11 +3724,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q=\""
+          "Value": "\"dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 21:29:46 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3601,7 +3738,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3rhct5k9zu"
+          "Value": "htp3aci2oj"
         },
         {
           "Name": "label",
@@ -3609,13 +3746,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q="
+          "Value": "sha256-dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg="
         }
       ]
     },
     {
-      "Route": "Folio.3rhct5k9zu.styles.css.gz",
-      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\rukk6c941y-3rhct5k9zu.gz",
+      "Route": "Folio.htp3aci2oj.styles.css.gz",
+      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\rukk6c941y-htp3aci2oj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3624,7 +3761,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "253"
+          "Value": "220"
         },
         {
           "Name": "Content-Type",
@@ -3632,11 +3769,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pctRU2qDiNM70Z44MmT1I7RsgphmeMjaAqrg+ME1Urc=\""
+          "Value": "\"sgMaTN6jsUtIATu7b9Kdko4fyYY/nSkGfujAJzet67A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 21:29:46 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3654,7 +3791,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3rhct5k9zu"
+          "Value": "htp3aci2oj"
         },
         {
           "Name": "label",
@@ -3662,155 +3799,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pctRU2qDiNM70Z44MmT1I7RsgphmeMjaAqrg+ME1Urc="
-        }
-      ]
-    },
-    {
-      "Route": "Folio.bundle.scp.css",
-      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\6zp5zm7im6-3rhct5k9zu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003937007874"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "253"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pctRU2qDiNM70Z44MmT1I7RsgphmeMjaAqrg+ME1Urc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 21:29:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q="
-        }
-      ]
-    },
-    {
-      "Route": "Folio.bundle.scp.css",
-      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Folio.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "359"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 21:29:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q="
-        }
-      ]
-    },
-    {
-      "Route": "Folio.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\6zp5zm7im6-3rhct5k9zu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "253"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pctRU2qDiNM70Z44MmT1I7RsgphmeMjaAqrg+ME1Urc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 21:29:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pctRU2qDiNM70Z44MmT1I7RsgphmeMjaAqrg+ME1Urc="
+          "Value": "sha256-sgMaTN6jsUtIATu7b9Kdko4fyYY/nSkGfujAJzet67A="
         }
       ]
     },
     {
       "Route": "Folio.styles.css",
-      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\rukk6c941y-3rhct5k9zu.gz",
+      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\rukk6c941y-htp3aci2oj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003937007874"
+          "Quality": "0.004524886878"
         }
       ],
       "ResponseHeaders": [
@@ -3820,15 +3820,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "253"
+          "Value": "220"
         },
         {
           "Name": "ETag",
-          "Value": "\"pctRU2qDiNM70Z44MmT1I7RsgphmeMjaAqrg+ME1Urc=\""
+          "Value": "\"sgMaTN6jsUtIATu7b9Kdko4fyYY/nSkGfujAJzet67A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 21:29:46 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3848,13 +3848,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q=\""
+          "Value": "W/\"dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q="
+          "Value": "sha256-dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg="
         }
       ]
     },
@@ -3869,7 +3869,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "359"
+          "Value": "265"
         },
         {
           "Name": "Content-Type",
@@ -3877,11 +3877,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q=\""
+          "Value": "\"dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 21:29:46 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3891,13 +3891,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-39VtFte1nl9Bc8vCNk9phIWB2GlKHwk+5zlN+kJ6z6Q="
+          "Value": "sha256-dT8yZqnLtOsIF5nnc2FL2iygqVq1dg8voKXS3Q5lNkg="
         }
       ]
     },
     {
       "Route": "Folio.styles.css.gz",
-      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\rukk6c941y-3rhct5k9zu.gz",
+      "AssetFile": "C:\\Users\\mrasm\\OneDrive\\Desktop\\Asp.Net_Learn\\Folio\\obj\\Debug\\net9.0\\compressed\\rukk6c941y-htp3aci2oj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3906,7 +3906,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "253"
+          "Value": "220"
         },
         {
           "Name": "Content-Type",
@@ -3914,11 +3914,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pctRU2qDiNM70Z44MmT1I7RsgphmeMjaAqrg+ME1Urc=\""
+          "Value": "\"sgMaTN6jsUtIATu7b9Kdko4fyYY/nSkGfujAJzet67A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 21:29:46 GMT"
+          "Value": "Thu, 09 Jan 2025 21:30:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3936,7 +3936,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pctRU2qDiNM70Z44MmT1I7RsgphmeMjaAqrg+ME1Urc="
+          "Value": "sha256-sgMaTN6jsUtIATu7b9Kdko4fyYY/nSkGfujAJzet67A="
         }
       ]
     },
